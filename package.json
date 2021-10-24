@@ -1,0 +1,22 @@
+{
+  "name": "fizz_buzz",
+  "version": "1.0.0",
+  "description": "desafio 1 fizz buzz",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wfabyo/fizz_buzz.git"
+  },
+  "author": "Wellynnson Venancio",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wfabyo/fizz_buzz/issues"
+  },
+  "homepage": "https://github.com/wfabyo/fizz_buzz#readme",
+  "devDependencies": {
+    "jest": "^27.3.1"
+  }
+}
